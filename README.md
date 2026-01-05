@@ -1,1 +1,1 @@
-Voici mon exercice# exercice-git
+Voici mon exercice
